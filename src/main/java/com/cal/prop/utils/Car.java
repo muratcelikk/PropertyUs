@@ -6,8 +6,8 @@ package com.cal.prop.utils;
  */
 public class Car {
 
-	public Car() { // BU CONTRUCTOR ÖNEMLÝ NOKTASI..
-		System.out.println("CALL CARSS"); //console da çalýþtýðýný görmek için.
+	public Car() {
+		System.out.println("CALL CARSS");
 	}
 
 	private int id;
